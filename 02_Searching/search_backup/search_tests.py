@@ -59,7 +59,7 @@ def hash_table_Test(HT):
     keys = randlst([r, 10, 100])
     values = randstr(len(keys))
     print(f"Keys to enter: {keys}",
-          f"values to enter: {values}",
+          f"Values to enter: {values}",
           f"Key-value pair: {list(zip(keys, values))}",   # display one list with key-value pair
           sep = "\n", end = "\n\n")
     
@@ -75,7 +75,7 @@ def hash_table_Test(HT):
               sep = " | ")
     print()
     print(f"Keys entered: {H._keys}",
-          f"values entered: {H._values}", 
+          f"Values entered: {H._values}", 
           sep = "\n", end = "\n\n")
     
     # Get the values in Hash Table for each corresponding key
