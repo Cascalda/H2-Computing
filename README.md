@@ -11,7 +11,7 @@ This is a GitHub repository for the H2 Computing project.
 
 ## Description
 
-H2-Computing is a project aimed at providing resources and materials for students studying H2 Computing in Singapore. It includes sample code, exercises, and other educational materials to aid students in their learning journey.
+H2-Computing is a project aimed at providing resources and materials for students studying H2 Computing in Singapore. It includes sample code, exercises, and other educational materials to aid students in their learning journey. However, it might be outdated as it is only accurate for A-level H2 Computing of 2022.
 
 ## Usage
 
@@ -26,10 +26,13 @@ You'll find various folders containing sample code, exercises, and other educati
 ## Contributing
 Contributions to this project are welcome! If you have suggestions for improvements, bug fixes, or additional educational materials, please follow these steps:
 
-Fork the repository.
-Create a new branch (git checkout -b feature/improvement).
-Make your changes.
-Commit your changes (git commit -am 'Add some feature').
-Push to the branch (git push origin feature/improvement).
-Create a new Pull Request.
-Please ensure your contributions adhere to the code of conduct.
+- Fork the repository.
+- Create a new branch (git checkout -b feature/improvement).
+- Make your changes.
+- Commit your changes (git commit -am 'Add some feature').
+- Push to the branch (git push origin feature/improvement).
+- Create a new Pull Request.
+- Please ensure your contributions adhere to the code of conduct.
+
+## License
+This project is licensed under the [MIT License](LICENSE).
